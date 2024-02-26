@@ -1,8 +1,7 @@
 #include <windows.h>
-#include <VariadicTable.h>
+#include "VariadicTable.h"
 #include <iostream>
 #include <fstream>
-#include <conio.h>
 
 using namespace std ;
 HANDLE hConsole = GetStdHandle(STD_OUTPUT_HANDLE);
