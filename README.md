@@ -14,7 +14,7 @@ You must enter the username and password first and you can change it in `admin.t
 #### Default :
 
 
-```json
+```
 
 username = "admin" ,    password = 12345678
 
