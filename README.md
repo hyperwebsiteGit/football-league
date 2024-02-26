@@ -60,6 +60,4 @@ username = "admin" ,    password = 12345678
 
 ---
 
-## Our website :
-
-- [hyperwebsite.net](https://hyperwebsite.net)
+### thank you for reading :)
